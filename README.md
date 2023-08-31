@@ -1,11 +1,12 @@
 My name is mahsima.
 
 - 💬 Ask me about **ML**, **MLOps**, **PyTorch** and anything related to machine learning
-- Follow me on [Twitter](https://twitter.com/mahsimadastan), [Medium](https://medium.com/@mahseema) or [dev.to](https://dev.to/mahseema)
+- 📫 Follow me on [Twitter](https://twitter.com/mahsimadastan), [Medium](https://medium.com/@mahseema) or [dev.to](https://dev.to/mahseema)
 
 ## Projects
 
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) 🌟🌟🌟
+
 
 <!--
 **mahseema/mahseema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
