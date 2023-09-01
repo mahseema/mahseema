@@ -6,6 +6,7 @@ My name is mahsima.
 ## Projects
 
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) 🌟🌟🌟
+- [Connect ChatGPT To The Internet](https://github.com/mahseema/connect-chatgpt-to-internet) 🌟🌟
 
 
 <!--
