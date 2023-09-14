@@ -1,7 +1,7 @@
 My name is mahsima.
 
 - 💬 Ask me about **ML**, **MLOps**, **PyTorch** and anything related to machine learning
-- 📫 Follow me on [Twitter](https://twitter.com/mahsimadastan), [Medium](https://medium.com/@mahseema), [ProductHunt](https://producthunt.com/@mahsimadastan), [dev.to](https://dev.to/mahseema) and [linktree](https://linktr.ee/mahseema)
+- 📫 Follow me on [Twitter](https://twitter.com/mahsimadastan), [Medium](https://medium.com/@mahseema), [ProductHunt](https://producthunt.com/@mahsimadastan), [dev.to](https://dev.to/mahseema), [Dribbble](https://dribbble.com/mahseema/about) and [linktree](https://linktr.ee/mahseema)
 
 ## Projects
 
