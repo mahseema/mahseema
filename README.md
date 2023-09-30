@@ -7,6 +7,7 @@ My name is mahsima.
 
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) 🌟🌟🌟
 - [Connect ChatGPT To The Internet](https://github.com/mahseema/connect-chatgpt-to-internet) 🌟🌟
+- [List of AI Directories](https://github.com/best-of-ai/top-ai-directories) 🌟
 
 
 <!--
