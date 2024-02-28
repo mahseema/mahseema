@@ -4,7 +4,7 @@ My name is mahsima. I'm working on [Altern AI Directory](https://altern.ai).
 - 📫 Follow me on  [Twitter](https://twitter.com/mahsimadastan), [Medium](https://medium.com/@mahseema), [Altern](https://altern.ai/@mahseema), [ProductHunt](https://producthunt.com/@mahsimadastan), [dev.to](https://dev.to/mahseema), [Dribbble](https://dribbble.com/mahseema/about), [tumblr](https://www.tumblr.com/mahseema) and [linktree](https://linktr.ee/mahseema)
 
 ## Projects
-
+- [Altern AI Directory](https://altern.ai) 🌟🌟🌟🌟🌟
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) 🌟🌟🌟
 - [AI Books](https://github.com/mahseema/aibooks) 🌟🌟
 - [List of AI Directories](https://github.com/best-of-ai/top-ai-directories) 🌟
