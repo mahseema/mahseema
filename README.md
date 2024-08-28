@@ -6,8 +6,9 @@ My name is mahsima. I'm working on [Altern AI Directory](https://altern.ai).
 ## Projects
 - [Altern AI Directory](https://altern.ai) 🌟🌟🌟🌟🌟
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) 🌟🌟🌟
+- [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) 🌟🌟🌟
 - [AI Books](https://github.com/mahseema/aibooks) 🌟🌟
-- [List of AI Directories](https://github.com/best-of-ai/top-ai-directories) 🌟
+- [List of AI Directories](https://github.com/best-of-ai/top-ai-directories) 🌟🌟
 
 
 <!--
