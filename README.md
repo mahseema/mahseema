@@ -9,6 +9,8 @@ My name is mahsima. I'm working on [Altern AI Directory](https://altern.ai).
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) 🌟🌟🌟
 - [AI Books](https://github.com/mahseema/aibooks) 🌟🌟
 - [List of AI Directories](https://github.com/best-of-ai/top-ai-directories) 🌟🌟
+- [Productivity Tools List](https://productivity.directory) - A curated list of Productivity Tools 🌟🌟🌟🌟🌟
+- [Marketing Tools List](https://marketingtoolslist.com) - A curated list of Marketing Tools 🌟🌟🌟🌟🌟
 
 
 <!--
